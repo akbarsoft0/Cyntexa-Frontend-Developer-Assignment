@@ -1,0 +1,6 @@
+th,td{
+    padding:0 1rem;
+    width: max-content;
+    white-space: nowrap;
+    text-align: left;
+}
